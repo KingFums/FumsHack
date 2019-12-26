@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "kami",
+    "name": "Fums Hack",
+    "description": "Meme client extended by Fums \nOriginally written by 086 and continued by S-B99",
+    "version": "v1.0.0",
+    "mcversion": "1.12.2",
+    "logoFile": "kami.png",
+    "url": "https://discord.gg/5S75KQ5",
+    "authorList": ["086", "S-B99", "Fums"],
+    "credits": "Thank you 086 for the original KAMI\nThank you hub for your contributions\nFums Hack a continued Kami Blue by Fums"
+  }
+]
